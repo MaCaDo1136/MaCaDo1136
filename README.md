@@ -41,15 +41,10 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 ---
 ### 📊 Some stats :)
 
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de Mario" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MaCaDo1136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCaDo1136&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <p float="center">
   <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api/top-langs/?username=MaCaDo1136&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,c%23" alt="Language stats"/>  
   <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api?username=MaCaDo1136&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCaDo1136&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
