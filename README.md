@@ -14,6 +14,7 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,docker,proxmox,react,fastapi,mysql,git,arduino,raspberrypi" />
+    <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" />
   </a>
 </p>
 
