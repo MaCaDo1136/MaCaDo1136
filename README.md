@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello There, I'm Mario Casas 👋
+## Student in Robotics and Digital Systems
 
-<!--
-**MaCaDo1136/MaCaDo1136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Monterrey. Passionate about building autonomus systems, managing network structures and developing software, always looking to have an impact.
 
-Here are some ideas to get you started:
+**Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,matlab,bash,html,css" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Infrastructure**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arch,docker,proxmox,react,fastapi,mysql,git,arduino,raspberrypi" />
+  </a>
+</p>
+
+---
+
+### 🚀 Projects & Experience
+
+* **[VOLTEC 6647](https://github.com/VOLTEC6647)**: Former Mentor and alumni, leading Software Strategy and Drive Team for the FIRST Robotics team.
+* **Personal Homelab**: Managing a Proxmox-based environment with NAS, Pi-hole, my own Portfolio, and Uptime Kuma for 24/7 service monitoring.
+* **HackHarvard 2025**: Developed an 
+* **HackMTY 2025**: Developed an inventory optimization system using Python and FastAPI.
+
+---
