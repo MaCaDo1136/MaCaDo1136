@@ -2,6 +2,7 @@
 ## Student in Robotics and Digital Systems
 
 Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Monterrey. Passionate about building autonomus systems, managing network structures and developing software, always looking to have an impact.
+
 <p align="left">
   <a href="https://mariocasas.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-265B5F?style=for-the-badge&logo=about.me&logoColor=white" />
