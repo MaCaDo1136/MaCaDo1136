@@ -14,6 +14,8 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,docker,react,fastapi,mysql,git,arduino,raspberrypi" />
+  </a>
+  <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" />
   </a>
 </p>
@@ -24,7 +26,7 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 
 * **[VOLTEC 6647](https://github.com/VOLTEC6647)**: Former Mentor and alumni, leading Software Strategy and Drive Team for the FIRST Robotics team.
 * **Personal Homelab**: Managing a Proxmox-based environment with NAS, Pi-hole, my own Portfolio, Grafana Service, and Uptime Kuma for 24/7 service monitoring.
-* * **[Flipply (HackHarvard 2025)](https://github.com/m3l0x42/Flipply)**: Developed a mobile app that uses **Gemini API** and **eBay API** to automate the resselling process with image recognition. I implemented **FastAPI** for the **Python** Backend. ![Hackathon](https://img.shields.io/badge/HackHarvard-2025-red?style=flat-square&logo=github)
+* **[Flipply (HackHarvard 2025)](https://github.com/m3l0x42/Flipply)**: Developed a mobile app that uses **Gemini API** and **eBay API** to automate the resselling process with image recognition. I implemented **FastAPI** for the **Python** Backend. ![Hackathon](https://img.shields.io/badge/HackHarvard-2025-red?style=flat-square&logo=github)
 * **HackMTY 2025**: Developed an inventory optimization system using **Python** and **FastAPI**.
 
 ---
