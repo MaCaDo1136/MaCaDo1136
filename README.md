@@ -41,6 +41,8 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 ---
 ### 📊 Some stats :)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaCaDo1136)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Estadísticas de Mario" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaCaDo1136&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Lenguajes más usados" />
