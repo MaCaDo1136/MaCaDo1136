@@ -13,7 +13,7 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 **Tools & Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,docker,proxmox,react,fastapi,mysql,git,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,docker,react,fastapi,mysql,git,arduino,raspberrypi" />
     <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" />
   </a>
 </p>
@@ -23,8 +23,37 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 ### 🚀 Projects & Experience
 
 * **[VOLTEC 6647](https://github.com/VOLTEC6647)**: Former Mentor and alumni, leading Software Strategy and Drive Team for the FIRST Robotics team.
-* **Personal Homelab**: Managing a Proxmox-based environment with NAS, Pi-hole, my own Portfolio, and Uptime Kuma for 24/7 service monitoring.
-* **HackHarvard 2025**: Developed an 
-* **HackMTY 2025**: Developed an inventory optimization system using Python and FastAPI.
+* **Personal Homelab**: Managing a Proxmox-based environment with NAS, Pi-hole, my own Portfolio, Grafana Service, and Uptime Kuma for 24/7 service monitoring.
+* * **[Flipply (HackHarvard 2025)](https://github.com/m3l0x42/Flipply)**: Developed a mobile app that uses **Gemini API** and **eBay API** to automate the resselling process with image recognition. I implemented **FastAPI** for the **Python** Backend. ![Hackathon](https://img.shields.io/badge/HackHarvard-2025-red?style=flat-square&logo=github)
+* **HackMTY 2025**: Developed an inventory optimization system using **Python** and **FastAPI**.
 
 ---
+### 📊 Some stats :)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true" alt="Mario's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCaDo1136&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🏆 Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaCaDo1136&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+---
+
+### About me
+* 🌎 Based in **Monterrey, Mexico**.
+* 🤖 Currently refining my **Arch Linux** setup and expanding my homelab.
+* 🚀 Goal: Scaling AI-driven systems and autonomous robotics.
+
+**Connect with me:**
+<p align="left">
+  <a href="https://www.linkedin.com/in/mario-casas-donjuan-949655288">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="
+</p>
