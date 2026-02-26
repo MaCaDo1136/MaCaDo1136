@@ -2,6 +2,17 @@
 ## Student in Robotics and Digital Systems
 
 Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Monterrey. Passionate about building autonomus systems, managing network structures and developing software, always looking to have an impact.
+<p align="left">
+  <a href="https://mariocasas.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-265B5F?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mario-casas-donjuan-949655288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact@mariocasas.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 **Languages**
 <p align="left">
@@ -13,10 +24,7 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 **Tools & Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,docker,react,fastapi,mysql,git,arduino,raspberrypi" />
-  </a>
-  <a href="https://img.shields.io">
-    <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,docker proxmox,,react,fastapi,mysql,git,arduino,raspberrypi" />
   </a>
 </p>
 
@@ -51,11 +59,3 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 * 🌎 Based in **Monterrey, Mexico**.
 * 🤖 Currently refining my **Arch Linux** setup and expanding my homelab.
 * 🚀 Goal: Scaling AI-driven systems and autonomous robotics.
-
-**Connect with me:**
-<p align="left">
-  <a href="https://www.linkedin.com/in/mario-casas-donjuan-949655288">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="
-</p>
