@@ -1,7 +1,7 @@
 # Hello There, I'm Mario Casas 👋
 ## Student in Robotics and Digital Systems
 
-Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Monterrey. Passionate about building autonomus systems, managing network structures and developing software, always looking to have an impact.
+Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Monterrey. Passionate about building autonomous systems, managing network structures, and developing software, always looking to have an impact.
 
 <p align="left">
   <a href="https://mariocasas.dev" target="_blank">
@@ -15,18 +15,24 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
   </a>
 </p>
 
+### 🛠 Languages & Tools
+
 **Languages**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,matlab,bash,html,css" />
-  </a>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-**Tools & Infrastructure**
+**Infrastructure & Tools**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,docker proxmox,,react,fastapi,mysql,git,arduino,raspberrypi" />
-  </a>
+  <img src="https://img.shields.io/badge/arch%20linux-%231793d1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
 </p>
 
 ---
@@ -35,23 +41,19 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 
 * **[VOLTEC 6647](https://github.com/VOLTEC6647)**: Former Mentor and alumni, leading Software Strategy and Drive Team for the FIRST Robotics team.
 * **Personal Homelab**: Managing a Proxmox-based environment with NAS, Pi-hole, my own Portfolio, Grafana Service, and Uptime Kuma for 24/7 service monitoring.
-* **[Flipply (HackHarvard 2025)](https://github.com/m3l0x42/Flipply)**: Developed a mobile app that uses **Gemini API** and **eBay API** to automate the resselling process with image recognition. I implemented **FastAPI** for the **Python** Backend. ![Hackathon](https://img.shields.io/badge/HackHarvard-2025-red?style=flat-square&logo=github)
+* **[Flipply (HackHarvard 2025)](https://github.com/m3l0x42/Flipply)**: Developed a mobile app that uses **Gemini AI** and **eBay API** to automate the reselling process with image recognition. I implemented **FastAPI** for the **Python** Backend. ![Hackathon](https://img.shields.io/badge/HackHarvard-2025-red?style=flat-square&logo=github)
 * **HackMTY 2025**: Developed an inventory optimization system using **Python** and **FastAPI**.
 
 ---
-### 📊 Some stats :)
+### 📊 Stats & Achievements
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true" alt="Mario's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCaDo1136&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCaDo1136&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 🏆 Achievements
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaCaDo1136&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MaCaDo1136&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
 ---
