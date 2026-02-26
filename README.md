@@ -42,7 +42,7 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 ### 📊 Some stats :)
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaCaDo1136&theme=tokyonight&no-bg=true&margin-w=15" alt="MaCaDo1136 trophies" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MaCaDo1136&theme=tokyonight&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="left">
