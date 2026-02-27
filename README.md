@@ -42,8 +42,8 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 ### 📊 Some stats :)
 
 <p float="center">
-  <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api/top-langs/?username=MaCaDo1136&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,c%23" alt="Language stats"/>  
-  <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api?username=MaCaDo1136&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
+<img src="https://readme-personal-stats.vercel.app/api/top-langs/?username=MaCaDo1136&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-personal-stats.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCaDo1136&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -53,4 +53,4 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 ### About me
 * 🌎 Based in **Monterrey, Mexico**.
 * 🤖 Currently refining my **Arch Linux** setup and expanding my homelab.
-* 🚀 Goal: Scaling AI-driven systems and autonomous robotics. :)
+* 🚀 Goal: Scaling AI-driven systems and autonomous robotics.
