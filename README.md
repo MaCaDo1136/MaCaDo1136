@@ -25,7 +25,7 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 **Tools & Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,docker, proxmox,,react,fastapi,mysql,git,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,docker,proxmox,react,fastapi,mysql,git,arduino,raspberrypi" />
   </a>
 </p>
 
