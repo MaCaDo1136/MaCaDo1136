@@ -43,7 +43,7 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 
 <p float="center">
 <img src="https://readme-personal-stats.vercel.app/api/top-langs/?username=MaCaDo1136&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://readme-personal-stats.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <!-- <img src="https://readme-personal-stats.vercel.app/api?username=MaCaDo1136&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaCaDo1136&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
