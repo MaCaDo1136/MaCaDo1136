@@ -53,4 +53,4 @@ Hi, I am currently studying Robotics and Digital Systems at Tecnológico de Mont
 ### About me
 * 🌎 Based in **Monterrey, Mexico**.
 * 🤖 Currently refining my **Arch Linux** setup and expanding my homelab.
-* 🚀 Goal: Scaling AI-driven systems and autonomous robotics.
+* 🚀 Goal: Scaling AI-driven systems and autonomous robotics. :)
